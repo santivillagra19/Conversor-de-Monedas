@@ -50,6 +50,7 @@ public class Main {
                         break;
                     case 8:
                         System.out.println("Programa finalizado con éxito ");
+                        break;
                     default:
                         System.out.println("Opción No válida");
                         break;
